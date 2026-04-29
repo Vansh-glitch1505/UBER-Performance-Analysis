@@ -74,19 +74,21 @@ Raw Data → Python (Clean & Engineer) → SQL (Analyze) → Power BI (Visualize
 
 ### Overview Page
 <!-- Add your Power BI screenshot here -->
-![Dashboard Overview](images/dashboard_overview.png)
+[![Dashboard Overview](images/dashboard_overview.png)](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/overview.jpeg?raw=true)
+
+### Vehicle Type
+<!-- Add your Power BI screenshot here -->
+[![Ratings Dashboard](images/ratings_dashboard.png](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/vehicle_type.jpeg?raw=true)
 
 ### Revenue Analysis
 <!-- Add your Power BI screenshot here -->
-![Revenue Analysis](images/revenue_analysis.png)
+[![Revenue Analysis](images/revenue_analysis.png)](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/revenue.jpeg?raw=true)
 
 ### Cancellation Patterns
 <!-- Add your Power BI screenshot here -->
-![Cancellation Patterns](images/cancellation_patterns.png)
+[![Cancellation Patterns](images/cancellation_patterns.png)](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/Cancellations.jpeg?raw=true)
 
-### Ratings & Experience
-<!-- Add your Power BI screenshot here -->
-![Ratings Dashboard](images/ratings_dashboard.png)
+)
 
 ---
 
@@ -138,8 +140,8 @@ uber-data-analysis/
 Aspiring Data Analyst passionate about turning raw data into actionable business insights.
 Currently building my portfolio across SQL, Python, and Power BI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vansh-rotkar-313530338/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/Vansh-glitch1505))
 
 ---
 
