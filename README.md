@@ -78,15 +78,15 @@ Raw Data → Python (Clean & Engineer) → SQL (Analyze) → Power BI (Visualize
 
 ### Vehicle Type
 <!-- Add your Power BI screenshot here -->
-![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/vehicle_type.jpeg?raw=true))
+![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/vehicle_type.jpeg?raw=true)
 
 ### Revenue Analysis
 <!-- Add your Power BI screenshot here -->
-![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/revenue.jpeg?raw=true))
+![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/revenue.jpeg?raw=true)
 
 ### Cancellation Patterns
 <!-- Add your Power BI screenshot here -->
-![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/Cancellations.jpeg?raw=true))
+![Image Alt]([image_url](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/Cancellations.jpeg?raw=true)
 
 
 
