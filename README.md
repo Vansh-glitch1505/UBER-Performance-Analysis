@@ -74,7 +74,7 @@ Raw Data → Python (Clean & Engineer) → SQL (Analyze) → Power BI (Visualize
 
 ### Overview Page
 <!-- Add your Power BI screenshot here -->
-[![Dashboard Overview](images/dashboard_overview.png)](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/overview.jpeg?raw=true)
+![Image Alt](https://github.com/Vansh-glitch1505/UBER-Performance-Analysis/blob/main/overview.jpeg?raw=true)
 
 ### Vehicle Type
 <!-- Add your Power BI screenshot here -->
